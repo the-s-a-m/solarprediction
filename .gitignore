@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignoring solarlogger.csv because too big
+solarlogger.csv
