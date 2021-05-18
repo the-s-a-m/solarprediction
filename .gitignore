@@ -130,3 +130,7 @@ dmypy.json
 
 # Ignoring solarlogger.csv because too big
 solarlogger.csv
+
+# Ignoring weather url
+weatherURL.txt
+weatherData
